@@ -4,6 +4,8 @@
 
 Lab-Link: **[Unprotected admin functionality with unpredictable URL](https://portswigger.net/web-security/access-control/lab-unprotected-admin-functionality-with-unpredictable-url)**
 
+Difficulty: APPRENTICE
+
 This write-up for the lab *Unprotected admin functionality* is part of my walkthrough series for [PortSwigger's Web Security Academy](https://portswigger.net/web-security).
 
 ## Summary
