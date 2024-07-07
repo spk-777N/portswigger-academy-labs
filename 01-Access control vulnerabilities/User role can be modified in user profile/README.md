@@ -24,7 +24,7 @@ You can **log in** to your own account using the following credentials: `wiener:
 
 ## Lab idea
 
-By testing the site,The hacker finds that there is a **function** for changing the email which stores data in the form of a **JSON** file. The hacker then modifies this data to gain **admin privileges**.
+By testing the site, The hacker finds that there is a **function** for changing the email which stores data in the form of a **JSON** file. The hacker then modifies this data to gain **admin privileges**.
 
 ## impact
 
