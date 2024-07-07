@@ -5,6 +5,8 @@
 
 Lab-Link: __[Unprotected admin functionality Lab](https://portswigger.net/web-security/access-control/lab-unprotected-admin-functionality)__
 
+Difficulty: APPRENTICE
+
 This write-up for the lab *Unprotected admin functionality* is part of my walkthrough series for [PortSwigger's Web Security Academy](https://portswigger.net/web-security).
 
 ## Summary
