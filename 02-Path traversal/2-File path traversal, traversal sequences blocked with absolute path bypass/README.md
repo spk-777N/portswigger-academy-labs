@@ -68,9 +68,9 @@ __congratulations!__
 
 1. Use Burp Suite to intercept and modify a request that fetches a product image.
 
-```
-Note: In this lab, I intentionally avoided using Burp Suite to introduce new ideas, such as using Wget. However, if you want to see my use of Burp Suite, you can refer to the first lab on the path traversal vulnerability (File path traversal, simple case), where I used Burp Suite.
-```
+
+*Note: In this lab, I intentionally avoided using Burp Suite to introduce new ideas, such as using Wget. However, if you want to see my use of Burp Suite, you can refer to the first lab on the path traversal vulnerability (File path traversal, simple case), where I used Burp Suite.*
+
 
 2. Modify the `filename` parameter, giving it the value `/etc/passwd`.
 
