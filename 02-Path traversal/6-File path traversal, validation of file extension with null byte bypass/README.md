@@ -48,7 +48,7 @@ an attacker might be able to write to arbitrary files on the server, allowing th
 
 5. From the description, I realized that the application checks the file extension and verifies whether it matches the expected extension, which is `.jpg`.
 
-6. So I used a null byte %00 to place it before the extension so that the application checks for the existence of the file, but when processing the file, it will not consider the extension of this file.
+6. So I used a null byte [%00](https://en.wikipedia.org/wiki/Null_character) to place it before the extension so that the application checks for the existence of the file, but when processing the file, it will not consider the extension of this file.
 
 7. So I modified the filename parameter to `../../../../etc/passwd%00.jpg`.
 
